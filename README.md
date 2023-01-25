@@ -200,3 +200,5 @@ For NetlifyCMS specific issues visit the [official documentation](https://www.ne
 # Author
 
 Ruben Harutyunyan ([@Vagr9K](https://twitter.com/Vagr9K))
+
+read
